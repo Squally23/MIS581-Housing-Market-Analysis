@@ -1,0 +1,134 @@
+cbsa,year,metro,population,median_household_income
+16700,2005,"Charleston-North Charleston, SC Metro Area",575297,45269
+16700,2006,"Charleston-North Charleston, SC Metro Area",603178,46421
+16700,2007,"Charleston-North Charleston, SC Metro Area",630100,49828
+16700,2008,"Charleston-North Charleston-Summerville, SC Metro Area",644506,52302
+16700,2009,"Charleston-North Charleston-Summerville, SC Metro Area",659191,48246
+16700,2010,"Charleston-North Charleston-Summerville, SC Metro Area",667741,48062
+16700,2011,"Charleston-North Charleston-Summerville, SC Metro Area",682121,50213
+16700,2012,"Charleston-North Charleston-Summerville, SC Metro Area",697439,50108
+16700,2013,"Charleston-North Charleston, SC Metro Area",712220,51771
+16700,2014,"Charleston-North Charleston, SC Metro Area",727689,53572
+16700,2015,"Charleston-North Charleston, SC Metro Area",744526,56430
+16700,2016,"Charleston-North Charleston, SC Metro Area",761155,57659
+16700,2017,"Charleston-North Charleston, SC Metro Area",775831,60546
+16700,2018,"Charleston-North Charleston, SC Metro Area",787643,64283
+16700,2019,"Charleston-North Charleston, SC Metro Area",802122,70505
+16700,2021,"Charleston-North Charleston, SC Metro Area",813052,72719
+16700,2022,"Charleston-North Charleston, SC Metro Area",830529,78927
+16700,2023,"Charleston-North Charleston, SC Metro Area",849417,85165
+16700,2024,"Charleston-North Charleston, SC Metro Area",869940,90307
+19100,2005,"Dallas-Fort Worth-Arlington, TX Metro Area",5727391,49740
+19100,2006,"Dallas-Fort Worth-Arlington, TX Metro Area",6006094,52001
+19100,2007,"Dallas-Fort Worth-Arlington, TX Metro Area",6144489,54730
+19100,2008,"Dallas-Fort Worth-Arlington, TX Metro Area",6303407,56377
+19100,2009,"Dallas-Fort Worth-Arlington, TX Metro Area",6447228,54539
+19100,2010,"Dallas-Fort Worth-Arlington, TX Metro Area",6402922,54449
+19100,2011,"Dallas-Fort Worth-Arlington, TX Metro Area",6526566,55546
+19100,2012,"Dallas-Fort Worth-Arlington, TX Metro Area",6647496,56954
+19100,2013,"Dallas-Fort Worth-Arlington, TX Metro Area",6812373,57398
+19100,2014,"Dallas-Fort Worth-Arlington, TX Metro Area",6954003,59530
+19100,2015,"Dallas-Fort Worth-Arlington, TX Metro Area",7102165,61644
+19100,2016,"Dallas-Fort Worth-Arlington, TX Metro Area",7232599,63812
+19100,2017,"Dallas-Fort Worth-Arlington, TX Metro Area",7400479,67382
+19100,2018,"Dallas-Fort Worth-Arlington, TX Metro Area",7540371,69445
+19100,2019,"Dallas-Fort Worth-Arlington, TX Metro Area",7573136,72265
+19100,2021,"Dallas-Fort Worth-Arlington, TX Metro Area",7759615,75975
+19100,2022,"Dallas-Fort Worth-Arlington, TX Metro Area",7943685,82823
+19100,2023,"Dallas-Fort Worth-Arlington, TX Metro Area",8100037,86860
+19100,2024,"Dallas-Fort Worth-Arlington, TX Metro Area",8344032,92733
+28140,2005,"Kansas City, MO-KS Metro Area",1909666,50486
+28140,2006,"Kansas City, MO-KS Metro Area",1966790,52359
+28140,2007,"Kansas City, MO-KS Metro Area",1980977,53508
+28140,2008,"Kansas City, MO-KS Metro Area",2001074,56458
+28140,2009,"Kansas City, MO-KS Metro Area",2066732,54521
+28140,2010,"Kansas City, MO-KS Metro Area",2035747,53919
+28140,2011,"Kansas City, MO-KS Metro Area",2049773,53376
+28140,2012,"Kansas City, MO-KS Metro Area",2064296,54519
+28140,2013,"Kansas City, MO-KS Metro Area",2052048,56248
+28140,2014,"Kansas City, MO-KS Metro Area",2070221,56994
+28140,2015,"Kansas City, MO-KS Metro Area",2088269,60502
+28140,2016,"Kansas City, MO-KS Metro Area",2104115,61385
+28140,2017,"Kansas City, MO-KS Metro Area",2126945,63404
+28140,2018,"Kansas City, MO-KS Metro Area",2142419,65768
+28140,2019,"Kansas City, MO-KS Metro Area",2155068,70215
+28140,2021,"Kansas City, MO-KS Metro Area",2199544,73900
+28140,2022,"Kansas City, MO-KS Metro Area",2209152,75280
+28140,2023,"Kansas City, MO-KS Metro Area",2219865,79842
+28140,2024,"Kansas City, MO-KS Metro Area",2254288,83785
+29820,2005,"Las Vegas-Paradise, NV Metro Area",1691213,49571
+29820,2006,"Las Vegas-Paradise, NV Metro Area",1777539,53536
+29820,2007,"Las Vegas-Paradise, NV Metro Area",1836333,55996
+29820,2008,"Las Vegas-Paradise, NV Metro Area",1865746,56696
+29820,2009,"Las Vegas-Paradise, NV Metro Area",1902834,53505
+29820,2010,"Las Vegas-Paradise, NV Metro Area",1954260,51437
+29820,2011,"Las Vegas-Paradise, NV Metro Area",1969975,48215
+29820,2012,"Las Vegas-Paradise, NV Metro Area",2000759,49546
+29820,2013,"Las Vegas-Henderson-Paradise, NV Metro Area",2027868,51057
+29820,2014,"Las Vegas-Henderson-Paradise, NV Metro Area",2069681,51214
+29820,2015,"Las Vegas-Henderson-Paradise, NV Metro Area",2114801,51552
+29820,2016,"Las Vegas-Henderson-Paradise, NV Metro Area",2155664,54384
+29820,2017,"Las Vegas-Henderson-Paradise, NV Metro Area",2204079,57189
+29820,2018,"Las Vegas-Henderson-Paradise, NV Metro Area",2231647,57076
+29820,2019,"Las Vegas-Henderson-Paradise, NV Metro Area",2266715,62107
+29820,2021,"Las Vegas-Henderson-Paradise, NV Metro Area",2292476,63677
+29820,2022,"Las Vegas-Henderson-Paradise, NV Metro Area",2322985,70797
+29820,2023,"Las Vegas-Henderson-North Las Vegas, NV Metro Area",2336573,75065
+29820,2024,"Las Vegas-Henderson-North Las Vegas, NV Metro Area",2398871,80028
+34980,2005,"Nashville-Davidson--Murfreesboro, TN Metro Area",1384347,45543
+34980,2006,"Nashville-Davidson--Murfreesboro, TN Metro Area",1455296,47699
+34980,2007,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1521751,50760
+34980,2008,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1552922,51841
+34980,2009,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1581908,51066
+34980,2010,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1593050,47975
+34980,2011,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1620403,49992
+34980,2012,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1645638,51500
+34980,2013,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1757424,51996
+34980,2014,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1792468,52640
+34980,2015,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1830298,57985
+34980,2016,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1865535,60030
+34980,2017,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1904226,63939
+34980,2018,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1932099,65919
+34980,2019,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1933860,70262
+34980,2021,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",2013506,72725
+34980,2022,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",2046715,80034
+34980,2023,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",2104235,84685
+34980,2024,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",2151715,88800
+35620,2005,"New York-Northern New Jersey-Long Island, NY-NJ-PA Metro Area",18351099,56120
+35620,2006,"New York-Northern New Jersey-Long Island, NY-NJ-PA Metro Area",18818536,59281
+35620,2007,"New York-Northern New Jersey-Long Island, NY-NJ-PA Metro Area",18815988,61554
+35620,2008,"New York-Northern New Jersey-Long Island, NY-NJ-PA Metro Area",19006798,64747
+35620,2009,"New York-Northern New Jersey-Long Island, NY-NJ-PA Metro Area",19069796,62887
+35620,2010,"New York-Northern New Jersey-Long Island, NY-NJ-PA Metro Area",18919983,61927
+35620,2011,"New York-Northern New Jersey-Long Island, NY-NJ-PA Metro Area",19015900,62322
+35620,2012,"New York-Northern New Jersey-Long Island, NY-NJ-PA Metro Area",19160024,63982
+35620,2013,"New York-Newark-Jersey City, NY-NJ-PA Metro Area",19949502,65786
+35620,2014,"New York-Newark-Jersey City, NY-NJ-PA Metro Area",20092883,67066
+35620,2015,"New York-Newark-Jersey City, NY-NJ-PA Metro Area",20182305,68743
+35620,2016,"New York-Newark-Jersey City, NY-NJ-PA Metro Area",20153634,71897
+35620,2017,"New York-Newark-Jersey City, NY-NJ-PA Metro Area",20320876,75368
+35620,2018,"New York-Newark-Jersey City, NY-NJ-PA Metro Area",19979477,78478
+35620,2019,"New York-Newark-Jersey City, NY-NJ-PA Metro Area",19216182,83160
+35620,2021,"New York-Newark-Jersey City, NY-NJ-PA Metro Area",19768458,84409
+35620,2022,"New York-Newark-Jersey City, NY-NJ-PA Metro Area",19617869,91562
+35620,2023,"New York-Newark-Jersey City, NY-NJ Metro Area",19498249,95220
+35620,2024,"New York-Newark-Jersey City, NY-NJ Metro Area",19940274,99852
+41860,2005,"San Francisco-Oakland-Fremont, CA Metro Area",4071751,65382
+41860,2006,"San Francisco-Oakland-Fremont, CA Metro Area",4180027,70463
+41860,2007,"San Francisco-Oakland-Fremont, CA Metro Area",4203898,73581
+41860,2008,"San Francisco-Oakland-Fremont, CA Metro Area",4274531,76848
+41860,2009,"San Francisco-Oakland-Fremont, CA Metro Area",4317853,73825
+41860,2010,"San Francisco-Oakland-Fremont, CA Metro Area",4345320,73027
+41860,2011,"San Francisco-Oakland-Fremont, CA Metro Area",4391037,71975
+41860,2012,"San Francisco-Oakland-Fremont, CA Metro Area",4455560,74922
+41860,2013,"San Francisco-Oakland-Hayward, CA Metro Area",4516276,79624
+41860,2014,"San Francisco-Oakland-Hayward, CA Metro Area",4594060,83222
+41860,2015,"San Francisco-Oakland-Hayward, CA Metro Area",4656132,88518
+41860,2016,"San Francisco-Oakland-Hayward, CA Metro Area",4679166,96677
+41860,2017,"San Francisco-Oakland-Hayward, CA Metro Area",4727357,101714
+41860,2018,"San Francisco-Oakland-Hayward, CA Metro Area",4729484,107898
+41860,2019,"San Francisco-Oakland-Berkeley, CA Metro Area",4731803,114696
+41860,2021,"San Francisco-Oakland-Berkeley, CA Metro Area",4623264,116005
+41860,2022,"San Francisco-Oakland-Berkeley, CA Metro Area",4579599,128151
+41860,2023,"San Francisco-Oakland-Fremont, CA Metro Area",4566961,127792
+41860,2024,"San Francisco-Oakland-Fremont, CA Metro Area",4648486,135590

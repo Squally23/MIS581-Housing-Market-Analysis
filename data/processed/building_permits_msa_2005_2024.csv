@@ -1,0 +1,141 @@
+year,cbsa,metro_name,permits_total,units_1,units_2,units_3_4,units_5_plus,structures_5_plus
+2005,16700,"Charleston-North Charleston,* SC",10818,8084,156,129,2449,155
+2005,19100,"Dallas-Fort Worth-Arlington,* TX",59895,49489,442,152,9812,509
+2005,28140,"Kansas City,* MO-KS",15218,12118,528,749,1823,109
+2005,29820,"Las Vegas-Paradise,* NV",39237,30479,96,1155,7507,348
+2005,34980,"Nashville-Davidson--Murfreesboro,* TN",16654,14074,322,75,2183,123
+2005,35620,"New York-Northern New Jersey-Long Island,* NY-NJ-PA",67207,21424,6900,6570,32313,1163
+2005,41860,"San Francisco-Oakland-Fremont,* CA",14883,8102,78,294,6409,188
+2006,16700,"Charleston-North Charleston,* SC",9073,7304,58,84,1627,117
+2006,19100,"Dallas-Fort Worth-Arlington,* TX",56514,43591,596,329,11998,456
+2006,28140,"Kansas City,* MO-KS",13205,8714,516,756,3219,210
+2006,29820,"Las Vegas-Paradise,* NV",33728,21590,64,674,11400,351
+2006,34980,"Nashville-Davidson--Murfreesboro,* TN",15327,13811,266,55,1195,54
+2006,35620,"New York-Northern New Jersey-Long Island,* NY-NJ-PA",60987,16484,6462,6809,31232,1269
+2006,41860,"San Francisco-Oakland-Fremont,* CA",14483,5900,110,260,8213,273
+2007,16700,"Charleston-North Charleston,*  SC",6780,5602,12,18,1148,60
+2007,19100,"Dallas-Fort Worth-Arlington,* TX",43568,28156,372,532,14508,490
+2007,28140,"Kansas City,* MO-KS",8129,6032,162,589,1346,69
+2007,29820,"Las Vegas-Paradise,* NV",24089,13310,56,599,10124,154
+2007,34980,"Nashville-Davidson--Murfreesboro,* TN",13567,10902,110,83,2472,98
+2007,35620,"New York-Northern New Jersey-Long Island,* NY-NJ-PA",56405,12558,4650,4859,34338,1126
+2007,41860,"San Francisco-Oakland-Fremont,* CA",10560,5055,118,186,5201,166
+2008,16700,"Charleston-North Charleston-Summerville,* SC",5172,3694,18,45,1415,70
+2008,19100,"Dallas-Fort Worth-Arlington,* TX",36321,17919,202,234,17966,593
+2008,28140,"Kansas City,* MO-KS",5300,2610,154,451,2085,120
+2008,29820,"Las Vegas-Paradise,* NV",12537,5840,38,200,6459,279
+2008,34980,"Nashville-Davidson--Murfreesboro,* TN",8188,5669,54,6,2459,103
+2008,35620,"New York-Northern New Jersey-Long Island,* NY-NJ-PA",51590,8793,2094,1506,39197,1335
+2008,41860,"San Francisco-Oakland-Fremont,* CA",7555,2359,88,88,5020,136
+2009,16700,"Charleston-North Charleston-Summerville,* SC",2949,2732,2,4,211,15
+2009,19100,"Dallas-Fort Worth-Arlington,* TX",20370,14141,198,98,5933,234
+2009,28140,"Kansas City,* MO-KS",3406,1858,46,99,1403,70
+2009,29820,"Las Vegas-Paradise,* NV",5688,3777,12,277,1622,94
+2009,34980,"Nashville-Davidson--Murfreesboro,* TN",4933,3957,26,18,932,51
+2009,35620,"New York-Northern New Jersey-Long Island,* NY-NJ-PA",16707,6496,1078,674,8459,396
+2009,41860,"San Francisco-Oakland-Fremont,* CA",3550,2271,64,85,1130,64
+2010,16700,"Charleston-North Charleston-Summerville,* SC",3060,2787,16,3,254,16
+2010,19100,"Dallas-Fort Worth-Arlington,* TX",19558,14420,72,76,4990,203
+2010,28140,"Kansas City,* MO-KS",2714,2155,38,93,428,32
+2010,29820,"Las Vegas-Paradise,* NV",5474,4623,4,138,709,42
+2010,34980,"Nashville-Davidson--Murfreesboro-Franklin,* TN",5092,3938,32,33,1089,62
+2010,35620,"New York-Northern New Jersey-Long Island,* NY-NJ-PA",18668,7010,1542,707,9409,421
+2010,41860,"San Francisco-Oakland-Fremont,* CA",4621,2118,62,95,2346,90
+2011,16700,"Charleston-North Charleston-Summerville,* SC",3822,2597,0,0,1225,47
+2011,19100,"Dallas-Fort Worth-Arlington,* TX",24827,14039,36,51,10701,354
+2011,28140,"Kansas City,* MO-KS",3287,2363,82,84,758,45
+2011,29820,"Las Vegas-Paradise,* NV",5147,3817,24,39,1267,52
+2011,34980,"Nashville-Davidson--Murfreesboro-Franklin,* TN",5394,4100,52,24,1218,31
+2011,35620,"New York-Northern New Jersey-Long Island,* NY-NJ-PA",21539,6003,1298,592,13646,543
+2011,41860,"San Francisco-Oakland-Fremont,* CA",5783,1923,64,61,3735,114
+2012,16700,"Charleston-North Charleston-Summerville,* SC",4593,3132,26,12,1423,50
+2012,19100,"Dallas-Fort Worth-Arlington,* TX",35042,18090,176,124,16652,456
+2012,28140,"Kansas City,* MO-KS",4981,3299,80,116,1486,83
+2012,29820,"Las Vegas-Paradise,* NV",7375,6108,36,40,1191,67
+2012,34980,"Nashville-Davidson--Murfreesboro-Franklin,* TN",8247,5340,46,10,2851,94
+2012,35620,"New York-Northern New Jersey-Long Island,* NY-NJ-PA",26912,6815,1120,939,18038,713
+2012,41860,"San Francisco-Oakland-Fremont,* CA",9163,3095,144,82,5842,115
+2013,16700,"Charleston-North Charleston-Summerville,* SC",5417,3779,16,20,1602,66
+2013,19100,"Dallas-Fort Worth-Arlington,* TX",37910,21224,230,212,16244,382
+2013,28140,"Kansas City,* MO-KS",7532,4229,144,52,3107,119
+2013,29820,"Las Vegas-Paradise,* NV",8573,7067,38,185,1283,89
+2013,34980,"Nashville-Davidson--Murfreesboro--Franklin,* TN",10889,7020,204,53,3612,98
+2013,35620,"New York-Northern New Jersey-Long Island,* NY-NJ-PA",39824,10139,1454,885,27346,888
+2013,41860,"San Francisco-Oakland-Fremont,* CA",10922,3659,132,73,7058,131
+2014,16700,"Charleston-North Charleston,* SC",6155,4144,0,0,2011,51
+2014,19100,"Dallas-Fort Worth-Arlington, TX",43752,24884,182,166,18520,426
+2014,28140,"Kansas City,* MO-KS",8207,4176,156,237,3638,112
+2014,29820,"Las Vegas-Henderson-Paradise,* NV",10036,6809,26,95,3106,183
+2014,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",15040,9171,66,28,5775,163
+2014,35620,"New York-Newark-Jersey City,* NY-NJ-PA",47981,11796,1338,1071,33776,1046
+2014,41860,"San Francisco-Oakland-Hayward,* CA",10001,3716,82,77,6126,122
+2015,16700,"Charleston-North Charleston,* SC",6590,4608,44,0,1938,51
+2015,19100,"Dallas-Fort Worth-Arlington, TX",57146,29038,226,276,27606,538
+2015,28140,"Kansas City,* MO-KS",8954,4547,206,280,3921,146
+2015,29820,"Las Vegas-Henderson-Paradise,* NV",10605,7805,32,21,2747,201
+2015,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",18291,11417,62,66,6746,173
+2015,35620,"New York-Newark-Jersey City,* NY-NJ-PA",86424,11167,1366,1004,72887,1710
+2015,41860,"San Francisco-Oakland-Hayward,* CA",13386,4804,128,117,8337,215
+2016,16700,"Charleston-North Charleston,* SC",6974,4787,18,10,2159,66
+2016,19100,"Dallas-Fort Worth-Arlington, TX",55800,29703,266,314,25517,476
+2016,28140,"Kansas City, MO-KS",10389,5292,126,531,4440,104
+2016,29820,"Las Vegas-Henderson-Paradise,* NV",13577,8805,18,27,4727,225
+2016,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",20182,12830,76,77,7199,175
+2016,35620,"New York-Newark-Jersey City, NY-NJ-PA",43231,10397,1702,769,30363,1036
+2016,41860,"San Francisco-Oakland-Hayward,* CA",14787,4967,78,157,9585,226
+2017,16700,"Charleston-North Charleston,* SC",7267,4726,8,0,2533,87
+2017,19100,"Dallas-Fort Worth-Arlington, TX",62524,34604,296,231,27393,555
+2017,28140,"Kansas City, MO-KS",9851,5951,190,506,3204,133
+2017,29820,"Las Vegas-Henderson-Paradise,* NV",14073,9812,42,171,4048,161
+2017,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",20631,13650,82,100,6799,238
+2017,35620,"New York-Newark-Jersey City, NY-NJ-PA",50578,11289,1754,1139,36396,1129
+2017,41860,"San Francisco-Oakland-Hayward,* CA",16952,4777,82,220,11873,288
+2018,16700,"Charleston-North Charleston,* SC",7002,4787,0,16,2199,77
+2018,19100,"Dallas-Fort Worth-Arlington, TX",63893,36832,354,484,26223,617
+2018,28140,"Kansas City, MO-KS",10268,5608,258,388,4014,125
+2018,29820,"Las Vegas-Henderson-Paradise,* NV",12044,9721,22,30,2271,153
+2018,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",19159,13470,22,77,5590,135
+2018,35620,"New York-Newark-Jersey City, NY-NJ-PA",49692,11077,1682,1061,35872,1120
+2018,41860,"San Francisco-Oakland-Hayward,* CA",17421,4048,154,259,12960,219
+2019,16700,"Charleston-North Charleston, SC                             ",6695,4758,6,19,1912,74
+2019,19100,"Dallas-Fort Worth-Arlington, TX                             ",62708,34939,382,293,27094,594
+2019,28140,"Kansas City, MO-KS                                          ",9347,4811,346,259,3931,95
+2019,29820,"Las Vegas-Henderson-Paradise, NV                            ",13903,10042,4,177,3680,133
+2019,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN              ",22702,14460,46,61,8135,179
+2019,35620,"New York-Newark-Jersey City, NY-NJ-PA                       ",61168,11072,1786,1289,47021,1363
+2019,41860,"San Francisco-Oakland-Berkeley, CA                          ",13881,4076,124,153,9528,207
+2020,16700,"Charleston-North Charleston, SC                             ",8604,5791,0,34,2779,93
+2020,19100,"Dallas-Fort Worth-Arlington, TX                             ",60812,44005,828,221,15758,406
+2020,28140,"Kansas City, MO-KS                                          ",10728,6173,304,326,3925,135
+2020,29820,"Las Vegas-Henderson-Paradise, NV                            ",14100,10038,538,584,2940,168
+2020,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN              ",27158,15549,118,235,11256,225
+2020,35620,"New York-Newark-Jersey City, NY-NJ-PA                       ",54835,10993,1674,828,41340,1264
+2020,41860,"San Francisco-Oakland-Berkeley, CA                          ",10156,3386,70,114,6586,185
+2021,16700,"Charleston-North Charleston, SC                             ",8282,5913,16,11,2342,95
+2021,19100,"Dallas-Fort Worth-Arlington, TX                             ",78705,51996,836,632,25241,518
+2021,28140,"Kansas City, MO-KS                                          ",11254,7051,332,376,3495,99
+2021,29820,"Las Vegas-Henderson-Paradise, NV                            ",16307,12156,138,594,3419,187
+2021,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN              ",32191,17422,116,175,14478,308
+2021,35620,"New York-Newark-Jersey City, NY-NJ-PA                       ",56661,12947,1522,934,41258,1354
+2021,41860,"San Francisco-Oakland-Berkeley, CA                          ",13606,4301,250,91,8964,266
+2022,16700,"Charleston-North Charleston, SC                             ",9491,6329,2,32,3128,129
+2022,19100,"Dallas-Fort Worth-Arlington, TX                             ",77927,43685,686,1314,32242,683
+2022,28140,"Kansas City, MO-KS                                          ",11213,5198,258,367,5390,128
+2022,29820,"Las Vegas-Henderson-Paradise, NV                            ",13066,9199,104,182,3581,175
+2022,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN              ",28314,15383,164,173,12594,1136
+2022,35620,"New York-Newark-Jersey City, NY-NJ-PA                       ",69753,12235,1592,745,55181,1621
+2022,41860,"San Francisco-Oakland-Berkeley, CA                          ",11180,3376,84,154,7566,168
+2023,16700,"Charleston-North Charleston, SC                             ",8573,6184,82,234,2073,211
+2023,19100,"Dallas-Fort Worth-Arlington, TX                             ",68029,44366,926,422,22315,465
+2023,28140,"Kansas City, MO-KS                                          ",7514,4299,278,204,2733,60
+2023,29820,"Las Vegas-Henderson-Paradise, NV                            ",13073,10087,40,210,2736,94
+2023,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN              ",23558,13842,66,73,9577,250
+2023,35620,"New York-Newark-Jersey City, NY-NJ-PA                       ",63030,11734,1894,841,48561,1319
+2023,41860,"San Francisco-Oakland-Berkeley, CA                          ",7530,3015,70,93,4352,144
+2024,16700,Charleston-North Charleston  SC,8514,6817,78,182,1437,140
+2024,19100,Dallas-Fort Worth-Arlington  TX,71788,46440,1500,698,23150,624
+2024,28140,Kansas City  MO-KS,9148,4875,248,630,3395,106
+2024,29820,Las Vegas-Henderson-North Las Vegas  NV,14754,12277,66,110,2301,74
+2024,34980,Nashville-Davidson--Murfreesboro--Franklin  TN,20038,14465,100,63,5410,98
+2024,35620,New York-Newark-Jersey City  NY-NJ,57929,12530,1828,1018,42553,1136
+2024,41860,San Francisco-Oakland-Fremont  CA,5914,2776,84,64,2990,97
