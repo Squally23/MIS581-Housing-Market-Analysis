@@ -23,8 +23,9 @@ Interactive features include metropolitan highlighting,
 selected-year filtering, dynamic titles, and navigation
 between dashboards.
 
-The packaged Tableau workbook (.twbx) will be added after
-the final publication and data-security review.
+The finalized Tableau packaged workbook, MIS581_Capstone_HousingMarket_Project.twbx, is available in this directory. It includes an embedded Tableau Hyper extract and can be opened in Tableau Desktop without connecting to the original PostgreSQL database.
+
+The workbook contains six analytical worksheets and two interactive dashboards supporting metropolitan housing-market comparisons from 2005 through 2024. Interactive features include metropolitan highlighting, selected-year filtering, dynamic titles, and navigation between dashboards.
 
 The visualizations are descriptive and should not be
 interpreted as causal estimates or housing-price forecasts.
