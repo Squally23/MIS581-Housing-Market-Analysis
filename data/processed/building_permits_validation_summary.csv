@@ -1,0 +1,2 @@
+dataset,start_year,end_year,observations,unique_years,unique_cbsas,duplicate_msa_years,arithmetic_mismatches
+Census Building Permits MSA,2005,2024,140,20,7,0,0
